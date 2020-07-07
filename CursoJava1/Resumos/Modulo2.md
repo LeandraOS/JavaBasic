@@ -21,7 +21,7 @@ Podemos dividir todo esse sistema em três unidades.
     
 - ***Dispositivos de entrada e saída***:
     - :arrows_counterclockwise: Placas de rede;
-    - 📳 Modems:
+    - 📳 Modems;
     - :flower_playing_cards: Pendrive;
     - 💿 Discos regraváveis;
 
