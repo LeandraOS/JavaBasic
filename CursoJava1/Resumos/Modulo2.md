@@ -13,18 +13,17 @@ Podemos dividir todo esse sistema em três unidades.
     - 🖱️ Mouse: indicação de posições na tela.
     - :inbox_tray: Scanner: entrada de imagens e textos.
     - 🎙️ Microfone: entrada de sons.
-    -
 
 - ***Dispositivos de saída***:
-    - :tv: Monitor de vídeo.
-    - 🖨️ Impressora.
-    - :sound: Caixas de som.
+    - :tv: Monitor de vídeo;
+    - 🖨️ Impressora;
+    - :sound: Caixas de som;
     
 - ***Dispositivos de entrada e saída***:
-    - :arrows_counterclockwise: Placas de rede:
+    - :arrows_counterclockwise: Placas de rede;
     - 📳 Modems:
-    - :flower_playing_cards: Pendrive:
-    - 💿 Discos regraváveis:
+    - :flower_playing_cards: Pendrive;
+    - 💿 Discos regraváveis;
 
 ## :minidisc: A unidade de armazenamento  
 É responsável por guardar os dados manipulados pelo software e também por armazenar suas instruções.
