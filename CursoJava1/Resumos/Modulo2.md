@@ -1,7 +1,8 @@
 ## Índice
-- [Organização do Hardware](#organizacao-hardware)
+
 - [A unidade de entrada e saída](#entrada-e-saida)
-- [A unidade de armazenamento](#armazenamento)
+- [A unidade de armazenamento](#unidade-armazenamento)
+- [Unidade central de processamento(UCP/CPU)](#unidade-central)
 
 <a id = "organizacao-hardware"></a>
 # 🖥️ Organização do Hardware
@@ -31,7 +32,7 @@ Podemos dividir todo esse sistema em três unidades.
     - 📳 Modems;
     - :flower_playing_cards: Pendrive;
     - 💿 Discos regraváveis;
-<a id = "armazenamento"></a>
+<a id = "unidade-armazenamento"></a>
 ## :minidisc: A unidade de armazenamento  
 É responsável por guardar os dados manipulados pelo software e também por armazenar suas instruções.
 Ela é formada por dois tipos de dispositivos: os *voláteis* e os *não voláteis*.
@@ -46,6 +47,7 @@ Mantêm seu conteúdo mesmo quando não recebem energia elétrica.
 São utilizadas pelo software para **armazenamento a longo prazo** para que os dados continuem gravados mesmo após o término da sua execução.
 Por manterem o seu conteúdo dessa forma, também são utilizados para gravação das instruções dos programas que podem vir a ser executados pela CPU(Central Processing Unit).
 
+<a id = "unidade-central"></a>
 ## :1234: **Unidade central de processamento(UCP/CPU)**:
 É o cérebro do computador.
 
