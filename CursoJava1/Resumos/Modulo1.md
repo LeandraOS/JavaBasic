@@ -3,7 +3,7 @@
 Este curso foi de caráter bastante introdutório. A linguagem Java propriamente dita foi vista apenas no quinto e último módulo do curso.
 Mas, foi muito interessante revisitar e ressignificar estes conceitos.
 
-## :computer: Primeiro Módulo 
+## :computer: Conceitos básicos
 
 Tratou dos conceitos de lógica, programação, computadores e programas.
 
