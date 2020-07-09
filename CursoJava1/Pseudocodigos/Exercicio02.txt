@@ -7,4 +7,4 @@ início
 	escreva divisao
 fim
 
-// este algoritmo faz a divisão do primeiro número pelo segundo número.
+// este algoritmo realiza a divisão do primeiro número pelo segundo número.

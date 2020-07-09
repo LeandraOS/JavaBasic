@@ -1,0 +1,10 @@
+Algoritmo "Exercício 3"
+var
+	nota1, nota2, nota3, media: real
+início
+	leia nota1, nota2, nota3
+	media <- (nota1 + nota2 + nota3) / 3
+	escreva media
+fim
+
+// este algoritmo realiza o cálculo da média das notas de um aluno.
