@@ -1,7 +1,7 @@
 ## índice
 
 - [Classificação dos softwares](#classificação-dos-softwares)
-- [Como um programa é construído?](#como-um-programa-é-construído?)
+- [Como um programa é construído?](#como-um-programa-é-construído)
 - [Compilação](#compilação)
 - [Interpretação](#interpretação)
 - [Compilação vs interpretação](#compilação-vs-interpretação)
