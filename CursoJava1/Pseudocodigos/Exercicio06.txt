@@ -1,0 +1,12 @@
+Algoritmo "Exercício 6"
+var
+	salarioFixo, valorVendas, comissao, salarioFinal: real
+início
+	leia salarioFixo, valorVendas
+	comissao <- valorVendas * 0.04
+	salarioFinal <- salarioFixo + comissao
+	escreva comissao, salarioFinal
+fim
+
+// Este algoritmo calcula qual será o salário final de um funcionário que recebe um valor de salário fixo
+// mais uma comissão de 4% desse valor fixo.
