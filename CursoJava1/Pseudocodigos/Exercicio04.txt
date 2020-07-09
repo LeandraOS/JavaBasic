@@ -1,0 +1,11 @@
+Algoritmo "Exercício 4"
+var
+	preco, desconto, novoPreco: real
+início
+	leia preco
+	desconto <- preco * 0.1
+	novoPreco <- preco - desconto
+	escreva novoPreco
+fim
+
+// este algoritmo calcula o desconto de 10% em algum produto.
