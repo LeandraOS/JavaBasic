@@ -8,4 +8,4 @@ início
 	escreva novoPreco
 fim
 
-// este algoritmo calcula o desconto de 10% em algum produto.
+// Este algoritmo calcula o desconto de 10% em algum produto.

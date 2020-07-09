@@ -1,0 +1,13 @@
+Algoritmo "Exercício 5"
+var
+	salarioBase, gratificacao, imposto, salarioReceber: real
+início
+	leia salarioBase
+	gratificacao <- salarioBase * 0.05
+	imposto <- salarioBase * 0.07
+	salarioReceber <- salarioBase + gratificacao - imposto
+	escreva salarioReceber
+fim
+
+// Este algoritmo calcula quanto será o salário de um funcionário.
+// Levando em consideração que ele recebe 5% de gratificação e paga 7% de impostos.

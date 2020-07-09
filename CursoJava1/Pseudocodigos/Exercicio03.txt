@@ -7,4 +7,4 @@ início
 	escreva media
 fim
 
-// este algoritmo realiza o cálculo da média das notas de um aluno.
+// Este algoritmo realiza o cálculo da média das notas de um aluno.
