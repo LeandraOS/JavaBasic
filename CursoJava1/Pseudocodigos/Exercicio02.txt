@@ -1,6 +1,8 @@
 Algoritmo "Exercício 2"
+
 var
 	num1, num2, divisao: real
+
 início
 	leia num1, num2
 	divisao <- num1 / num2

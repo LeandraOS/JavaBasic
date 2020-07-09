@@ -1,0 +1,16 @@
+Algoritmo "Exercício 7"
+
+var
+    nota1, nota2, nota3, peso1, peso2, peso3, calculoNotas, somaPesos, mediaPonderada
+
+início
+    leia nota1, nota2, nota3, peso1, peso2, peso3
+
+    calculoNotas <- nota1 * peso1 + nota2 * peso2 + nota3 * peso3
+    somaPesos <- peso1 + peso2 + peso3
+    mediaPonderada <- calculoNotas / somaPesos
+
+    escreva mediaPonderada
+fim
+
+// este algoritmo realiza o cálculo da média ponderada de um aluno.

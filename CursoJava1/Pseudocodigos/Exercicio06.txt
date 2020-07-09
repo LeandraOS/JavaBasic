@@ -1,10 +1,14 @@
 Algoritmo "Exercício 6"
+
 var
 	salarioFixo, valorVendas, comissao, salarioFinal: real
+
 início
 	leia salarioFixo, valorVendas
+
 	comissao <- valorVendas * 0.04
 	salarioFinal <- salarioFixo + comissao
+
 	escreva comissao, salarioFinal
 fim
 

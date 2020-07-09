@@ -1,11 +1,15 @@
 Algoritmo "Exercício 5"
+
 var
 	salarioBase, gratificacao, imposto, salarioReceber: real
+
 início
 	leia salarioBase
+
 	gratificacao <- salarioBase * 0.05
 	imposto <- salarioBase * 0.07
 	salarioReceber <- salarioBase + gratificacao - imposto
+
 	escreva salarioReceber
 fim
 
