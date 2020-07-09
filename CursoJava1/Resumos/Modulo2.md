@@ -1,5 +1,5 @@
 ## Índice
-
+- [Organização do Hardware](#organizacao-hardware)
 - [A unidade de entrada e saída](#entrada-e-saida)
 - [A unidade de armazenamento](#unidade-armazenamento)
 - [Unidade central de processamento(UCP/CPU)](#unidade-central)

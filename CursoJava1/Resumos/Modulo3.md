@@ -1,10 +1,21 @@
+## índice
+
+- [Classificação dos softwares](#classificação-dos-softwares)
+- [Como um programa é construído?](#como-um-programa-é-construído?)
+- [Compilação](#compilação)
+- [Interpretação](#interpretação)
+- [Compilação vs interpretação](#compilação-vs-interpretação)
+- [Fazendo programas em Java funcionar](#fazendo-programas-em-java-funcionar)
+- [Compilar o código-fonte do programa](#compilar-o-código-fonte-do-programa)
+- [Resumo do processo utilizado por java](#resumo-do-processo-utilizado-por-java)
+
 # :bookmark_tabs: O software
 
 ## Classificação dos softwares
  A maioria dos autores os classificam da seguinte forma:
-  - :clipboard:Softwares de sistema: são os que fornecem suporte para a execução de outros programas.
-  - :bar_chart: Aplicativos: são os que funcionam com o apoio de softwares de sistema e fornecem alguma funcionalidade.
-  - :chart_with_downwards_trend: Softwares embarcados: são programas gravados diretamente em um chip. Exemplos incluem a BIOS(Basic Input Output System) e alguns
+  - :clipboard: **Softwares de sistema**: são os que fornecem suporte para a execução de outros programas.
+  - :bar_chart: **Aplicativos**: são os que funcionam com o apoio de softwares de sistema e fornecem alguma funcionalidade.
+  - :chart_with_downwards_trend: **Softwares embarcados**: são programas gravados diretamente em um chip. Exemplos incluem a BIOS(Basic Input Output System) e alguns
   softwares utilizados para controle, principalmente na indústria.
   
 ## Como um programa é construído?
@@ -68,7 +79,7 @@ Com o código do programa em bytecode gerado pelo compilador(*Javac*), pode-se *
 
 Esse comando faz com que o interpretador de bytecode do java, a JVM, traduza as instruções do programa para a CPU.
 
-### Resumo do processo utilizado por java:
+### Resumo do processo utilizado por java
 
  <img src="https://github.com/LeandraOliveiraS/JavaBasic/raw/master/CursoJava1/imagens/java.png?raw=true" alt="diagrama" width= "30%;" height= "30%">
 
