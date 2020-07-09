@@ -1,0 +1,11 @@
+Algoritmo "Exercício 1"
+var
+	num1, num2, subtração: inteiro
+início
+	leia num1, num2
+	subtração <- num1 - num2
+	escreva subtração
+fim
+
+
+// Este algoritmo realiza a subtração do primeiro número pelo segundo número.
