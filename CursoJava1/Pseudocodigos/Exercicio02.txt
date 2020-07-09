@@ -1,0 +1,10 @@
+Algoritmo "Exercício 2"
+var
+	num1, num2, divisao: real
+início
+	leia num1, num2
+	divisao <- num1 / num2
+	escreva divisao
+fim
+
+// este algoritmo faz a divisão do primeiro número pelo segundo número.
