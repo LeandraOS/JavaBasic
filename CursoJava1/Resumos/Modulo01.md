@@ -1,16 +1,16 @@
 
 ## Índice
-- [Conceitos básicos](#Conceitos-basicos)
-- [Como o computador funciona?](#Como-o-computador-funciona)
-- [Software e Hardware](#Software-e-hardware)
-- [Classificação dos computadores modernos](#classificacao)
+- [Conceitos básicos](#computer-conceitos-básicos)
+- [Como o computador funciona?](#pushpin-como-o-computador-funciona?)
+- [Software e Hardware](#paperclip-software-e-hardware)
+- [Classificação dos computadores modernos](#triangular_flag_on_post-classificação-dos-computadores-modernos)
 
 # :coffee: Conteúdos do curso Java I
 
 Este curso foi de caráter bastante introdutório. A linguagem Java propriamente dita foi vista apenas no quinto e último módulo do curso.
 Mas, foi muito interessante revisitar e ressignificar estes conceitos.
 
-<a id="Conceitos-basicos"></a>
+
 ## :computer: Conceitos básicos
 
 Tratou dos conceitos de lógica, programação, computadores e programas.
@@ -23,7 +23,7 @@ Tratou dos conceitos de lógica, programação, computadores e programas.
 
 - **Lógica de programação**: Capacidade de desenvolver programas de computador usando instruções **coerentemente ordenadas** de forma que a máquina realize determinada operação.
 
-<a id = "Como-o-computador-funciona"></a>
+
 ### :pushpin: Como o computador funciona? 
 
 O termo geral que se usa para o que o computador faz é **Processamento**.
@@ -31,7 +31,7 @@ O termo geral que se usa para o que o computador faz é **Processamento**.
     -  As entradas do processamento são: dados e instruções.
     - O objetivo do processamento feito por um computador é gerar um resultado, chamado de **saída**.
 
-<a id= "Software-e-hardware"></a>
+
 ### :paperclip: Software e Hardware
 
 - :bookmark_tabs: **Software***: Parte do sistema computacional, responsável por conter todas as **instruções** que **ensinam** o computador a fazer um determinado processamento.
@@ -40,8 +40,8 @@ O software, por sua vez, é executado por um *conjunto de dispositivos* eletrôn
 - :tv: **Hardware**: Este, é quem recebe as instruções do software e os dados de entrada e os processa, gerando a saída desejada pelo usuário. Ele quem lê e entende 
 as instruções do software e as executa.
 
-<a id = "classificacao"></a>
-## Classificação dos computadores modernos
+
+## :triangular_flag_on_post: Classificação dos computadores modernos
 
 - :iphone: **Hand helds** (computadores de mão): são projetados para serem movimentados e carregados com facilidade. 
 Fazem parte dessa categoria os tablets e os smartphones.

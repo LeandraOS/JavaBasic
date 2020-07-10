@@ -1,18 +1,18 @@
 ## Índice
-- [Organização do Hardware](#organizacao-hardware)
-- [A unidade de entrada e saída](#entrada-e-saida)
-- [A unidade de armazenamento](#unidade-armazenamento)
-- [Unidade central de processamento(UCP/CPU)](#unidade-central)
+- [Organização do Hardware](#organização-do-hardware)
+- [A unidade de entrada e saída](#arrows_counterclockwise-a-unidade-de-entrada-e-saída)
+- [A unidade de armazenamento](#minidisc-a-unidade-de-armazenamento)
+- [Unidade central de processamento(UCP/CPU)](#1234-unidade-central-de-processamento(ucp/cpu))
 
-<a id = "organizacao-hardware"></a>
-# 🖥️ Organização do Hardware
+
+# 🖥️Organização do Hardware
 
 Os computadores modernos são formados por diversos componentes e circuitos eletrônicos. Todos esses circuitos eletrônicos formam diversas placas e dispositivos que funcionam de forma integrada para a execução de um software.
 
 Podemos dividir todo esse sistema em três unidades.
 
-<a id= "entrada-e-saida"></a>
-## A unidade de entrada e saída
+
+## :arrows_counterclockwise: A unidade de entrada e saída
 
 É responsável pela comunicação com o mundo exterior. É através desses componentes do hardware que o computador realizará a **entrada de dados, instruções** e a **saída de informações** de um processamento.
 
@@ -32,7 +32,7 @@ Podemos dividir todo esse sistema em três unidades.
     - 📳 Modems;
     - :flower_playing_cards: Pendrive;
     - 💿 Discos regraváveis;
-<a id = "unidade-armazenamento"></a>
+
 ## :minidisc: A unidade de armazenamento  
 É responsável por guardar os dados manipulados pelo software e também por armazenar suas instruções.
 Ela é formada por dois tipos de dispositivos: os *voláteis* e os *não voláteis*.
@@ -47,7 +47,7 @@ Mantêm seu conteúdo mesmo quando não recebem energia elétrica.
 São utilizadas pelo software para **armazenamento a longo prazo** para que os dados continuem gravados mesmo após o término da sua execução.
 Por manterem o seu conteúdo dessa forma, também são utilizados para gravação das instruções dos programas que podem vir a ser executados pela CPU(Central Processing Unit).
 
-<a id = "unidade-central"></a>
+
 ## :1234: **Unidade central de processamento(UCP/CPU)**:
 É o cérebro do computador.
 

@@ -1,19 +1,19 @@
 ## Índice
-- [Algoritmos](#algoritmos)
+- [Algoritmos](#scroll-algoritmos)
 - [Escrevendo algoritmos em pseudocódigo](#pencil-escrevendo-algoritmos-em-pseudocódigo)
-- [Variáveis](#variáveis)
-- [Definição de nome da variável](#definição-de-nome-da-varivel)
+- [Variáveis](#file_folder-variáveis)
+- [Definição de nome da variável](#definição-de-nome-da-variável)
 - [Tipos de variáveis](#tipos-de-variáveis)
 - [Declaração de variáveis em pseudocódigo](#declaração-de-variáveis-em-pseudocódigo)
 - [Operação de atribuição](#operação-de-atribuição)
 - [Comando leia](#comando-leia)
 - [Realizando cálculos](#realizando-cálculos)
-- [Saída de dados](#saída-de-dados)
-- [Algoritmo construído](#algoritmo-construído)
+- [Saída de dados](#tv-saída-de-dados)
+- [Algoritmo construído](#bar_chart-algoritmo-construído)
 
 # :computer: Introdução à Programação
 
-## ::Algoritmos
+## :scroll: Algoritmos
 Sequência lógica de passos do programa, que pode ser expressa em qualquer linguagem de programação.
 
 <img>
@@ -64,7 +64,7 @@ início
 fim
 ```
 
-## Variáveis
+## :file_folder: Variáveis
 
 A memória de um computador pode ser vista como um conjunto de células, onde dados de diversos tipos podem ser armazenados.
 Cada uma das células de memória é identificada por um **endereço númerico**.
@@ -74,7 +74,7 @@ Para facilitar que os programadores acessem esses dados de forma facilitada, cri
 :warning: Cada variável representa uma ou mais posições de memória onde um determinado dado encontra-se armazenado.
 <img>
 
-### Definição de nome da variável
+### :pushpin: Definição de nome da variável
 
 Toda variável possui um nome que tem a função de diferencia-la das demais.
 Cada linguagem de programação estabelece as suas próprias regras de formação de nomes de variáveis.
@@ -98,7 +98,7 @@ sal/hora|:x:
 sal_hora|:heavy_check_mark:
 _desconto|:heavy_check_mark:
 
-### Tipos de variáveis 
+### :ballot_box_with_check: Tipos de variáveis 
 
 O tamanho de uma variável é definido pelo seu tipo. O tipo de uma variável define quais dados podemos atribuir a ela. Mas quais tipos podemos associar a uma variável ?
 
@@ -112,7 +112,7 @@ Tipo| Definição
 **caractere**| Símbolos alfanúmericos, letras, algarismos, sinais de pontuação e qualquer outro símbolo válido. São representados entre aspas simples (' ').
 **literal**| Também chamado de cadeia de caractere ou **string**. Armazena uma sequência de caracteres alfanúmericos. Devem ser representados entre aspas duplas (" ").
 
-### Declaração de variáveis em pseudocódigo
+### :book: Declaração de variáveis em pseudocódigo
 
 Todas as variáveis utilizadas em algoritmos devem ser declaradas antes de serem utilizadas.
 Declarar uma variável é dizer, a priori, o nome e o tipo de cada variável utilizada. Isto se faz necessário para que seja
@@ -125,7 +125,7 @@ idade: inteiro
 salario: real
 tem_filhos: lógico
 ```
-### Operação de atribuição
+### :arrow_left: Operação de atribuição
 
 A atribuição de valores a uma variável é realizada da seguinte forma:
 
@@ -140,11 +140,11 @@ var <- 2 * numero
 resultado <- var 
 ```
 
-## Comando leia
+## :inbox_tray: Comando leia
 
 O comando leia recebe valores das variáveis, e enquanto não receber, a execução do comando leia ficará esperando o usuário digitar.
 
-## Realizando Cálculos
+## :symbols: Realizando Cálculos
 
 Operador| Símbolo
 :---:|:---:
@@ -155,14 +155,14 @@ Divisão|div
 Resto da divisão|mod
 
 
-## Saída de Dados
+## :tv: Saída de Dados
 Para realizar saída de dados, utilizando um dispositivo de saída, podemos utilizar o comando `escreva`. Este comando possui a seguinte estrutura básica:
 
 `escreva lista_de_valores`
 Este comando irá escrever na tela do dispositivo utilizado pelo usuário a resposta dada pelo algoritmo.
 
 
-## Algoritmo construído
+## :bar_chart: Algoritmo construído
 
 Utilizando todas as regras e conhecimentos adquiridos ao longo deste resumo, somos capazes de construir uma infinidade de algoritmos. Sendo assim, vamos treinar!
 

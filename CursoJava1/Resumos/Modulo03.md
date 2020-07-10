@@ -1,17 +1,17 @@
 ## índice
 
-- [Classificação dos softwares](#classificação-dos-softwares)
+- [Classificação dos softwares](#pencil-classificação-dos-softwares)
 - [Como um programa é construído?](#como-um-programa-é-construído)
 - [Compilação](#compilação)
 - [Interpretação](#interpretação)
 - [Compilação vs interpretação](#compilação-vs-interpretação)
-- [Fazendo programas em Java funcionar](#fazendo-programas-em-java-funcionar)
-- [Compilar o código-fonte do programa](#compilar-o-código-fonte-do-programa)
-- [Resumo do processo utilizado por java](#resumo-do-processo-utilizado-por-java)
+- [Fazendo programas em Java funcionar](#arrow_forward-fazendo-programas-em-java-funcionar)
+- [Compilar o código-fonte do programa](#page_facing_up-compilar-o-código-fonte-do-programa)
+- [Resumo do processo utilizado por java](#coffee-resumo-do-processo-utilizado-por-java)
 
 # :bookmark_tabs: O software
 
-## Classificação dos softwares
+## :pencil: Classificação dos softwares
  A maioria dos autores os classificam da seguinte forma:
   - :clipboard: **Softwares de sistema**: são os que fornecem suporte para a execução de outros programas.
   - :bar_chart: **Aplicativos**: são os que funcionam com o apoio de softwares de sistema e fornecem alguma funcionalidade.
@@ -61,13 +61,13 @@ Algumas linguagens tentaram explorar o melhor dos dois mundos.                  
     
    Como o bytecode é interpretado mais rapidamente do que o código-fonte java do programa, assim, consegue-se um desempenho próximo ao de um programa compilado com a vantagem de poder executá-lo em qualquer computador que possua a JVM instalada.
  
-### Fazendo programas em Java funcionar
+### :arrow_forward: Fazendo programas em Java funcionar
 
 - O nome do arquivo .java deve ter o **mesmo** nome da classe utilizada no código-fonte.
 - Javac, é o compilador Java.
 - java, a JVM em linha de comando para a execução de programas compilados em bytecode.
 
-## Compilar o código-fonte do programa
+## :page_facing_up: Compilar o código-fonte do programa
 
 `javac nomeDaClasse.java`
 
@@ -79,7 +79,7 @@ Com o código do programa em bytecode gerado pelo compilador(*Javac*), pode-se *
 
 Esse comando faz com que o interpretador de bytecode do java, a JVM, traduza as instruções do programa para a CPU.
 
-### Resumo do processo utilizado por java
+### :coffee: Resumo do processo utilizado por java
 
  <img src="https://github.com/LeandraOliveiraS/JavaBasic/raw/master/CursoJava1/imagens/java.png?raw=true" alt="diagrama" width= "30%;" height= "30%">
 
