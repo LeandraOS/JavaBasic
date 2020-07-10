@@ -4,7 +4,7 @@
 - [A unidade de armazenamento](#minidisc-a-unidade-de-armazenamento)
 - [Unidade central de processamento(UCP/CPU)](#1234-unidade-central-de-processamentoucpcpu)
 
-<a id= "organização-do-hardware></a>
+<a id= "organização-do-hardware"></a>
 # 🖥️ Organização do Hardware
 
 Os computadores modernos são formados por diversos componentes e circuitos eletrônicos. Todos esses circuitos eletrônicos formam diversas placas e dispositivos que funcionam de forma integrada para a execução de um software.
