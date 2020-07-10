@@ -184,11 +184,11 @@ Para realizar saída de dados, utilizando um dispositivo de saída, podemos util
 Este comando irá escrever na tela do dispositivo utilizado pelo usuário a resposta produzida pelo algoritmo.
 
 
-## :bar_chart: Algoritmo construído
+## :bar_chart: Primeiro algoritmo
 
 Utilizando todas as regras e conhecimentos adquiridos ao longo deste resumo, somos capazes de construir uma infinidade de algoritmos. Sendo assim, vamos treinar!
 
-Exemplo:
+**Exemplo**:
 
 ```
 "Algoritmo "Cálculo da média de um aluno"
