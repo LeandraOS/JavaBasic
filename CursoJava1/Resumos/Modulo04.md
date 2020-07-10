@@ -4,14 +4,14 @@
 - [Variáveis](#file_folder-variáveis)
 - [Definição de nome da variável](#definição-de-nome-da-variável)
 - [Tipos de variáveis](#tipos-de-variáveis)
-- [Declaração de variáveis em pseudocódigo](#declaração-de-variáveis-em-pseudocódigo)
-- [Operação de atribuição](#operação-de-atribuição)
-- [Comando leia](#comando-leia)
-- [Realizando cálculos](#realizando-cálculos)
-- [Saída de dados](#tv-saída-de-dados)
+- [Declaração de variáveis em pseudocódigo](#book-declaração-de-variáveis-em-pseudocódigo)
+- [Operação de atribuição](#arrow_left-operação-de-atribuição)
+- [Comando leia](#inbox_tray-comando-leia)
+- [Realizando cálculos](#symbols-realizando-cálculos)
+- [Saída de dados](#outbox_tray-saída-de-dados)
 - [Algoritmo construído](#bar_chart-algoritmo-construído)
 
-# :computer: Introdução à Programação
+# Introdução à Programação
 
 ## :scroll: Algoritmos
 Sequência lógica de passos do programa, que pode ser expressa em qualquer linguagem de programação.
@@ -74,7 +74,7 @@ Para facilitar que os programadores acessem esses dados de forma facilitada, cri
 :warning: Cada variável representa uma ou mais posições de memória onde um determinado dado encontra-se armazenado.
 <img>
 
-### :pushpin: Definição de nome da variável
+### Definição de nome da variável
 
 Toda variável possui um nome que tem a função de diferencia-la das demais.
 Cada linguagem de programação estabelece as suas próprias regras de formação de nomes de variáveis.
@@ -98,19 +98,19 @@ sal/hora|:x:
 sal_hora|:heavy_check_mark:
 _desconto|:heavy_check_mark:
 
-### :ballot_box_with_check: Tipos de variáveis 
+### Tipos de variáveis 
 
 O tamanho de uma variável é definido pelo seu tipo. O tipo de uma variável define quais dados podemos atribuir a ela. Mas quais tipos podemos associar a uma variável ?
 
 A maioria das linguagens de programação de alto nível trabalham com cinco tipos de dados básicos, chamados **tipos primitivos**.
 
 Tipo| Definição
-:---:| :---
+:---:| ---
 **inteiro**| Todos os números positivos, negativos e o zero.
 **real**| Números com parte fracionária.
 **lógico**| Valores verdadeiros (true) ou falsos (false).
 **caractere**| Símbolos alfanúmericos, letras, algarismos, sinais de pontuação e qualquer outro símbolo válido. São representados entre aspas simples (' ').
-**literal**| Também chamado de cadeia de caractere ou **string**. Armazena uma sequência de caracteres alfanúmericos. Devem ser representados entre aspas duplas (" ").
+**literal**| Também chamado de cadeia de caractere ou **string**. Devem ser representados entre aspas duplas (" ").
 
 ### :book: Declaração de variáveis em pseudocódigo
 
@@ -130,7 +130,8 @@ tem_filhos: lógico
 A atribuição de valores a uma variável é realizada da seguinte forma:
 
 ``nome da variável <- valor``
-O valor expresso ao lado direito é armazenado na variável informada à esquerda.
+
+> O valor expresso ao lado direito é armazenado na variável informada à esquerda.
 
 Exemplo:
 
@@ -155,7 +156,7 @@ Divisão|div
 Resto da divisão|mod
 
 
-## :tv: Saída de Dados
+## :outbox_tray: Saída de Dados
 Para realizar saída de dados, utilizando um dispositivo de saída, podemos utilizar o comando `escreva`. Este comando possui a seguinte estrutura básica:
 
 `escreva lista_de_valores`
@@ -181,15 +182,17 @@ início
 fim
 ```
 
-:warning: É importante notar que o cálculo da média está sendo realizado utilizando parênteses. 
+> :warning: É importante notar que o cálculo da média está sendo realizado utilizando parênteses. 
+
 
 Por que isso? Na programação, são utilizadas as **mesmas** regras de precedência da matemática, que são:
+
 
 Ordem de Precedência| Operador
 :---:|:---:
 1º|Expressão dentro de ( )
-2º| / e *
+2º| divisão e multiplicação
 3º| mod e div
 4º|soma e subtração
 
-Por isso, é de extrema importância que os parênteses() sejam utilizados em cálculos onde é necessário que os operadores de menor precedência tenham maior precedência, pois eles são **prioridade máxima em uma expressão**.
+Por isso, é de extrema importância que os parênteses sejam utilizados em cálculos onde é necessário que os operadores de menor precedência tenham maior precedência, pois eles são **prioridade máxima em uma expressão**.
