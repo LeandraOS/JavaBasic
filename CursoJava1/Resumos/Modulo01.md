@@ -1,7 +1,7 @@
 
 ## Índice
 - [Conceitos básicos](#computer-conceitos-básicos)
-- [Como o computador funciona?](#pushpin-como-o-computador-funciona?)
+- [Como o computador funciona?](#pushpin-como-o-computador-funciona)
 - [Software e Hardware](#paperclip-software-e-hardware)
 - [Classificação dos computadores modernos](#triangular_flag_on_post-classificação-dos-computadores-modernos)
 
