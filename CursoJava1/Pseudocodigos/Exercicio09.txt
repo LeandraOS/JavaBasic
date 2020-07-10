@@ -1,0 +1,13 @@
+Algoritmo "Exercício 9"
+
+var
+	lado, area: real
+
+início
+
+	leia lado
+	area <- lado * lado
+	escreva area
+fim
+
+// Este algoritmo realiza o cálculo da área de um quadrado.
