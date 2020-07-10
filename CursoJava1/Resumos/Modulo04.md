@@ -92,11 +92,11 @@ Toda variável possui um nome que tem a função de diferencia-la das demais.
 Cada linguagem de programação estabelece as suas próprias regras de formação de nomes de variáveis.
     
 As **regras** mais adotadas são as seguintes:
-- [X] Nome de variável deve necessariamente começar com uma letra ou sublinhado.
-- [X] Um nome de variável não deve conter nenhum símbolo especial, exceto o sublinhado.
-- [X] Após o primeiro caractere podem ser empregados dígitos numéricos.
-- [X] Não pode haver espaços em branco entre os caracteres, para substituí-los use o sublinhado.
-- [X] Devem ser evitadas letras com acentuação.
+- Nome de variável deve necessariamente começar com uma letra ou sublinhado.
+- Um nome de variável não deve conter nenhum símbolo especial, exceto o sublinhado.
+- Após o primeiro caractere podem ser empregados dígitos numéricos.
+- Não pode haver espaços em branco entre os caracteres, para substituí-los use o sublinhado.
+- Devem ser evitadas letras com acentuação.
 
 **Exemplos**:
 
