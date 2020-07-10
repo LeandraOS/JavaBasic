@@ -1,0 +1,18 @@
+Algoritmo "Exercício 12"
+
+var
+    precoFabrica, percentualLucro, percentualImpostos, lucro, impostos, precoFinal: real
+
+início
+
+    leia precoFabrica, percentualLucro, percentualImpostos
+
+    lucro <- precoFabrica * (percentualLucro / 100)
+    impostos <- precoFabrica * (percentualImpostos / 100)
+    precoFinal <- precoFabrica + lucro + impostos
+
+    escreva lucro, impostos, precoFinal
+
+fim
+
+// Esse algoritmo faz o cálculo do lucro, impostos e preço final de um carro.
