@@ -1,0 +1,17 @@
+Algoritmo "Exercício 10"
+
+var
+	pes, polegadas, jardas, milhas: real
+
+início
+
+	leia pes
+
+	polegadas <- pes * 12
+	jardas <- pes / 3
+	milhas <- jardas / 1760
+
+	escreva polegadas, jardas, milhas
+fim
+
+// Esse algoritmo realiza a conversão de medidas.

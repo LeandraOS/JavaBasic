@@ -13,4 +13,4 @@ início
     escreva mediaPonderada
 fim
 
-// este algoritmo realiza o cálculo da média ponderada de um aluno.
+// Esse algoritmo realiza o cálculo da média ponderada de um aluno.

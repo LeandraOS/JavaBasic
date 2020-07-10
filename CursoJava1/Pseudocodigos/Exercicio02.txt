@@ -9,4 +9,4 @@ início
 	escreva divisao
 fim
 
-// Este algoritmo realiza a divisão do primeiro número pelo segundo número.
+// Esse algoritmo realiza a divisão do primeiro número pelo segundo número.

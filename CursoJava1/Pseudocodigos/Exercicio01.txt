@@ -10,4 +10,4 @@ início
 fim
 
 
-// Este algoritmo realiza a subtração do primeiro número pelo segundo número.
+// Esse algoritmo realiza a subtração do primeiro número pelo segundo número.

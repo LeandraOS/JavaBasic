@@ -12,5 +12,5 @@ início
 	escreva comissao, salarioFinal
 fim
 
-// Este algoritmo calcula qual será o salário final de um funcionário que recebe um valor de salário fixo
+// Esse algoritmo calcula qual será o salário final de um funcionário que recebe um valor de salário fixo
 // mais uma comissão de 4% desse valor fixo.

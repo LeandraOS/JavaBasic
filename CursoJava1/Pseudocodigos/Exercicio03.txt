@@ -9,4 +9,4 @@ início
 	escreva media
 fim
 
-// Este algoritmo realiza o cálculo da média das notas de um aluno.
+// Esse algoritmo realiza o cálculo da média das notas de um aluno.

@@ -10,4 +10,4 @@ início
 	escreva area
 fim
 
-// Este algoritmo realiza o cálculo da área de um quadrado.
+// Esse algoritmo realiza o cálculo da área de um quadrado.

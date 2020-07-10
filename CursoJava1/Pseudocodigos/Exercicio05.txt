@@ -13,5 +13,5 @@ início
 	escreva salarioReceber
 fim
 
-// Este algoritmo calcula quanto será o salário de um funcionário.
+// Esse algoritmo calcula quanto será o salário de um funcionário.
 // Levando em consideração que ele recebe 5% de gratificação e paga 7% de impostos.
