@@ -1,0 +1,17 @@
+Algoritmo "Exercicio 11"
+
+var
+	anoNasc, anoAtual, idadeAnos, idadeMeses, idadeDias, idadeSemanas: inteiro
+
+início
+	leia anoNasc, anoAtual
+
+	idadeAnos <- anoAtual - anoNasc
+	idadeMeses <- idadeAnos * 12
+	idadeDias <- idadeAnos * 365
+	idadeSemanas <- idadeAnos * 52
+
+	escreva idadeAnos, idadeMeses, idadeDias, idadeSemanas
+fim
+
+// Esse algoritmo realiza conversões de uma idade,em anos, meses, dias e semanas.
