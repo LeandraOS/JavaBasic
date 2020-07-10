@@ -1,0 +1,16 @@
+Algoritmo "Exercício 15"
+
+var
+    Celsius, Fahrenheit: real
+
+início
+
+    leia celsius
+
+    fahrenheit <- ((9 * celsius) / 5) + 32
+
+    escreva fahrenheit
+
+fim
+
+// Esse algoritmo realiza a conversão de temperaturas, de celsius para fahrenheit.

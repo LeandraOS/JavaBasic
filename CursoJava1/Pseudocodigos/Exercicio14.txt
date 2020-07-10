@@ -17,3 +17,4 @@ início
 fim
 
 //Esse algoritmo calcula o calor do quilowatt com base no salário da pessoa, calcula o valor que ela deve pagar e o valor do desconto que ela receberá.
+
