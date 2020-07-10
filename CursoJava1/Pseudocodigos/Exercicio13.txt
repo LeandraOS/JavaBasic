@@ -1,0 +1,19 @@
+Algoritmo "Exercício 13"
+
+var
+    horasTrabalhadas, valorSalario, salarioBruto, imposto, salarioRecebido: real
+
+início
+    leia horasTrabalhadas, valorSalario
+
+    valorHoraTrabalhada <- 0,1 * valorSalario
+    salarioBruto <- horasTrabalhadas * valorHoraTrabalhada
+    imposto <- salarioBruto * 0,03
+    salarioRecebido <- salarioBruto - imposto
+
+    escreva salarioRecebido
+
+fim
+
+// Esse algoritmo realiza o cálculo do valor da hora trabalhada, o salário bruto, imposto a ser pago e o
+// salário a ser recebido pelo funcionário.
