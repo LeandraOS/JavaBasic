@@ -1,5 +1,5 @@
 ## Índice
-- [Algoritmos](#algoritmos)
+- [Algoritmos](#algoritmo)
 - [Escrevendo algoritmos em pseudocódigo](#pencil-escrevendo-algoritmos-em-pseudocódigo)
 - [Variáveis](#file_folder-variáveis)
 - [Definição de nome da variável](#definição-de-nome-da-variável)
@@ -9,14 +9,15 @@
 - [Comando leia](#inbox_tray-comando-leia)
 - [Realizando cálculos](#symbols-realizando-cálculos)
 - [Saída de dados](#outbox_tray-saída-de-dados)
-- [Algoritmo construído](#bar_chart-algoritmo-construído)
+- [Primeiro Algoritmo](#bar_chart-Primeiro-algoritmo)
 
 # Introdução à Programação
 
-## Algoritmos
-Sequência lógica de passos do programa, que pode ser expressa em qualquer linguagem de programação.
+## Algoritmo
 
-<img src="https://github.com/LeandraOliveiraS/JavaBasic/blob/master/CursoJava1/imagens/4-algoritmo.png?raw=true" width = "60%" height= "60%">
+
+Sequência lógica de passos do programa, que pode ser expressa em qualquer linguagem de programação.
+<img src="https://github.com/LeandraOliveiraS/JavaBasic/blob/master/CursoJava1/imagens/4-algoritmo.png?raw=true" width = "60%" height= "50%">
 
 Existem várias formas informais para se escrever rascunhos de códigos, dentre as mais utilizadas encontram-se:
 
@@ -24,39 +25,41 @@ Existem várias formas informais para se escrever rascunhos de códigos, dentre 
 Esta forma é **pouco** utilizada, pois, as instruções podem ser ambíguas e de difícil representação em uma linguagem de programação.
 
 - **Diagramas de Chapin**: são uma representação gráfica das instruções de um algoritmo de forma *hierárquica e estruturada*. São pouco usados em desenvolvimento de programas, mas bastante representativos.
-
-<img src="https://arquivo.devmedia.com.br/artigos/Gabriel_Giaretta/Diagramas-Chapin-Fluxogramas/Diagramas-Chapin-Fluxogramas7.jpg" width = "35%" height = "35%">
+    <img src="https://arquivo.devmedia.com.br/artigos/Gabriel_Giaretta/Diagramas-Chapin-Fluxogramas/Diagramas-Chapin-Fluxogramas7.jpg" width = "30%" height = "30%" text-align= "middle">
 
 - **Fluxogramas**: também conhecidos como diagrama de blocos, que utilizam figuras geométricas para identificar tipos diferentes de instruções.
 São bastante utilizados para representar algoritmos, inclusive em outras áreas além da programação.
-
-<img src= "https://github.com/LeandraOliveiraS/JavaBasic/blob/master/CursoJava1/imagens/6-fluxograma.png?raw=true" width = "60%" height = "60%">
+    <img src= "https://github.com/LeandraOliveiraS/JavaBasic/blob/master/CursoJava1/imagens/6-fluxograma.png?raw=true" width = "60%" height = "60%">
 
 - **Pseudocódigo**: também conhecido como ***português estruturado*** ou portugol. É uma representação de algoritmos baseada nas regras da linguagem [pascal]().
 Esta forma de representação, junto com os fluxogramas, são uma das mais utilizadas para se representar algoritmos em programação.
 
 
-```
-Algoritmo "Verifica idade"
+    ```
+    
+    Algoritmo "Verifica idade"
 
-var
-idade: inteiro
+    var
+    idade: inteiro
 
-início
-    escreva "Informe sua idade"
-    leia idade
-    se idade < 25 então
-        escreva "você é jovem!"
-    senão
-        escreva "você já não é mais tão jovem assim kk!"
-    fim se
-fim
-```
+    início
+        escreva "Informe sua idade"
+        leia idade
+        se idade < 25 então
+            escreva "você é jovem!"
+        senão
+            escreva "você já não é mais tão jovem assim kk!"
+        fim se
+    fim
+    
+    ```
 
 ## :pencil: Escrevendo algoritmos em pseudocódigo
-Todo algoritmo em pseudocódigo deve ser escrito utilizando uma estrutura básica, mostrada abaixo:
+
+Todo algoritmo em pseudocódigo deve ser escrito utilizando uma estrutura básica:
 
 ```
+
 Algoritmo "nome do algoritmo"
 
 var
@@ -66,8 +69,11 @@ início
     instruções 
 
 fim
+
 ```
+
 ---
+
 
 ## :file_folder: Variáveis
 
@@ -76,7 +82,8 @@ Cada uma das células de memória é identificada por um **endereço númerico**
     Assim, para acessar um determinado dado na memória, seria necessário conhecer a posição inicial deste dado na mémoria e quantos bytes foram usados para armazená-lo.
 
 Para facilitar que os programadores acessem esses dados de forma facilitada, criou-se o conceito de **variável**.
-:warning: Cada variável representa uma ou mais posições de memória onde um determinado dado encontra-se armazenado.
+
+> :warning: Cada variável representa uma ou mais posições de memória onde um determinado dado encontra-se armazenado.
 
 
 ### Definição de nome da variável
@@ -103,7 +110,6 @@ sal/hora|:x:
 sal_hora|:heavy_check_mark:
 _desconto|:heavy_check_mark:
 
----
 
 ### Tipos de variáveis 
 
