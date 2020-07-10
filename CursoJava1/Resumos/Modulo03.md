@@ -1,6 +1,6 @@
 ## índice
 
-- [Classificação dos softwares](#pencil-classificação-dos-softwares)
+- [Classificação dos softwares](#classificação-dos-softwares)
 - [Como um programa é construído?](#como-um-programa-é-construído)
 - [Compilação](#compilação)
 - [Interpretação](#interpretação)
@@ -11,7 +11,7 @@
 
 # :bookmark_tabs: O software
 
-## :pencil: Classificação dos softwares
+## Classificação dos softwares
  A maioria dos autores os classificam da seguinte forma:
   - :clipboard: **Softwares de sistema**: são os que fornecem suporte para a execução de outros programas.
   - :bar_chart: **Aplicativos**: são os que funcionam com o apoio de softwares de sistema e fornecem alguma funcionalidade.
