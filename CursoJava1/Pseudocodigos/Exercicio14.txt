@@ -1,0 +1,19 @@
+Algoritmo "Exercício 14"
+
+var
+    valorSalario, qtdQuilowatt, valorPagar, valorPagarDesconto: real
+
+início
+
+    leia valorSalario, qtdQuilowatt
+
+    valorQuilowatt <- valorSalario / 5
+    valorPagar <- qtdQuilowatt * valorQuilowatt
+
+    valorPagarDesconto <- valorPagar - (valorPagar * 0,15)
+
+    escreva valorQuilowatt, valorPagar, valorPagarDesconto
+
+fim
+
+//Esse algoritmo calcula o calor do quilowatt com base no salário da pessoa, calcula o valor que ela deve pagar e o valor do desconto que ela receberá.
