@@ -1,0 +1,13 @@
+Algoritmo "Exercício 8"
+
+var
+	base, altura, area: real
+
+início
+
+	leia base, altura
+	area <- (base * altura) / 2
+	escreva area
+fim
+
+// Este algoritmo realiza o cálculo da área de um triângulo.
