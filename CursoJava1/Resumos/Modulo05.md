@@ -1,3 +1,19 @@
+## Índice
+
+- [Estrutura básica de um programa Java](#Estrutura-básica-de-um-programa-Java)
+- [Variáveis e tipos de dados em Java](#Variáveis-e-tipos-de-dados-em-Java)
+    - [Inteiro](#Inteiro)
+    - [Real](#Real)
+    - [Boolean](#Boolean)
+    - [Literal](#Literal)
+- [Entrada de dados](#Entrada-de-dados)
+- [Expressões](#Expressões)
+- [Saída de dados](#Saída-de-dados)
+- [Formatação de String](Formatação-de-String)
+    - [Exemplo](Exemplo)
+- [Comentários em Java](Comentários-em-Java)
+
+
 # :coffee: Introdução à linguagem Java
 
 ## Estrutura básica de um programa Java
@@ -26,21 +42,22 @@ Se é desejado escrever valores de outros tipos inteiros, é preciso acrescentar
 
 Tipo|Tamanho|Exemplo
 :---:|:---:| :---:
-byte| 8 bits| 12B
-short|16 bits|345S
-int|32 bits|578
-long|64 bits|1000001L
+byte| 8 bits|int num = 12B
+short|16 bits|int num = 345S
+int|32 bits|int num = 578
+long|64 bits|int num = 1000001L
 
-#### Real:
+#### Real
 
 Para designar que um valor seja interpretado como `float`, é necessário acrescentar o F ao final do número.
 
 Tipo|Tamanho|Exemplo
 :---:|:---:|:---:
-float| 32 bits| 3.456F
-double| 64 bits| 86.987
+float| 32 bits| float num= 3.456F
+double| 64 bits| double num = 86.987
 
 #### Lógico
+
 Os valores do tipo **boolean** utilizam as palavras em inglês `true` e `false` (em letras minúsculas).
 
 #### Literal
