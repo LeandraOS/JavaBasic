@@ -62,9 +62,9 @@ Os valores do tipo **boolean** utilizam as palavras em inglês `true` e `false` 
 
 #### Literal
 
-- Valores do tipo **char** devem ser escritos entre aspas simples ('').
+- Valores do tipo **char** devem ser escritos entre aspas simples ('g').
 
-- Os valores do tipo **String** devem ser escritos entre aspas duplas ("").
+- Os valores do tipo **String** devem ser escritos entre aspas duplas ("git").
 
 ## Entrada de dados
 
@@ -117,7 +117,7 @@ Comando| Funcionalidade
 ***System.out.print***| Posiciona o cursor de saída logo na mesma linha.
 ***System.printf***| Possibilita se fazer uma saída de dados formatada.
 
-> :warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print** ou o **System.out.printf**, podemos usar o caractere especial de ***nova linha***, representado por `\n`.
+:warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print** ou o **System.out.printf**, podemos usar o caractere especial de ***nova linha***, representado por **\n**.
 
 ## Formatação de String
 
