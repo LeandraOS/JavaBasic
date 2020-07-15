@@ -100,8 +100,7 @@ System.out.println| Posiciona o cursor de saída no início da próxima linha na
 System.out.print| Posiciona o cursor de saída logo na mesma linha.
 System.printf| Possibilita se fazer uma saída de dados formatada.
 
-> :warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print**, utilizamos o caractere especial de ***nova linha***, representado
->por `\n`.
+> :warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print**, utilizamos o caractere especial de ***nova linha***, representado por `\n`.
 
 ## Formatação de String
 
@@ -123,10 +122,12 @@ Formato| Funcionalidade
 "%c"| Permite mostrar um valor **caractere**.
 "%s"|Permite exibir um valor do tipo **String**.
 
-> No caso da formatação que especifica a quantidade de casas decimais `%.2f`.
->> Se o número tiver menos casas do que é especificado, será completado com zeros à **direita**.
 
->> Se tiver mais dígitos do que o especificado, será arredondado para o número de dígitos desejado.
+
+> No caso da formatação que especifica a quantidade de casas decimais `%.2f`.
+>> Se o número tiver **menos** casas do que é especificado, será **completado** com zeros à **direita**.
+
+>> Se tiver **mais** dígitos do que o especificado, será **arredondado** para o número de dígitos desejado.
 
 #### Exemplo:
 ```
