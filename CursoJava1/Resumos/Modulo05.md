@@ -10,7 +10,7 @@
 - [Expressões](#Expressões)
 - [Saída de dados](#Saída-de-dados)
 - [Formatação de String](#Formatação-de-String)
-- [Exemplo](#Exemplo)
+    - [Exemplo](#Exemplo)
 - [Comentários em Java](#Comentários-em-Java)
 
 
