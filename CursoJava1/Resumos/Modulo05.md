@@ -12,7 +12,7 @@
 - [Formatação de String](#Formatação-de-String)
     - [Exemplo](#Exemplo)
 - [Comentários em Java](#Comentários-em-Java)
-
+- [Primeiro programa em Java](Primeiro-programa-em-Java)
 
 # :coffee: Introdução à linguagem Java
 
@@ -117,7 +117,7 @@ System.out.println| Posiciona o cursor de saída no início da próxima linha na
 System.out.print| Posiciona o cursor de saída logo na mesma linha.
 System.printf| Possibilita se fazer uma saída de dados formatada.
 
-> :warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print**, utilizamos o caractere especial de ***nova linha***, representado por `\n`.
+> :warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print** ou o **System.out.printf**, podemos usar o caractere especial de ***nova linha***, representado por `\n`.
 
 ## Formatação de String
 
@@ -160,4 +160,27 @@ Tipos| Funcionalidade
 :---:|:---
 //| Comentário de uma única linha.
 /* */|Comentário de múltiplas linhas.
- 
+
+## Primeiro programa em Java
+
+Com o material descrito neste resumo, já somos capazes de escrever um bom código. Vamos lá?!
+
+**Iremos calcular o novo salário de um funcionário.**
+
+```
+public class NovoSalarioFunc {
+	public static void main(String[] args) {
+		
+		System.out.print("Salário atual do funcionário: ");
+		double salarioAtual = Double.parseDouble(System.console().readLine());
+		System.out.print("Percentual de aumento: ");
+		double percAumento = Double.parseDouble(System.console().readLine());
+		
+		valorAumento = salarioAtual * percAumento / 100;
+		novoSalario = salarioAtual + valAumento;
+		
+		System.out.printf("Valor do aumento = R$ %.2f\n", valorAumento);
+		System.out.printf("Novo salário = R$ %.2f", novoSalario);
+	}
+}
+```
