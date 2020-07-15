@@ -113,11 +113,20 @@ Existem três tipos de comandos que realizam a função de produzir saída de da
 
 Comando| Funcionalidade
 :---:|:---
-***System.out.println***| Posiciona o cursor de saída no início da próxima linha na janela de comando do terminal.
-***System.out.print***| Posiciona o cursor de saída logo na mesma linha.
-***System.printf***| Possibilita se fazer uma saída de dados formatada.
+***System.out.println()***| Posiciona o cursor de saída no início da próxima linha na janela de comando do terminal.
+***System.out.print()***| Posiciona o cursor de saída logo na mesma linha.
+***System.printf()***| Possibilita se fazer uma saída de dados formatada.
 
-:warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print** ou o **System.out.printf**, podemos usar o caractere especial de ***nova linha***, representado por **\n**.
+:warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print()** ou o **System.out.printf()**, podemos usar o caractere especial de ***nova linha***, representado por **\n**.
+
+**Exemplo**
+```
+System.out.println("Hello World!)
+```
+**Saída**
+
+>Hello World!																			  
+|
 
 ## Formatação de String
 
