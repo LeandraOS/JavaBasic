@@ -1,9 +1,9 @@
-# :coffee:Introdução à linguagem Java
+# :coffee: Introdução à linguagem Java
 
 ## Estrutura básica de um programa Java
 
 `public class`
-- Esta linha define uma classe pública. Sendo assim, essa classe pode ser acessada fora do arquivo onde foi definida e pela máquina virtual.
+- Esta linha define uma classe pública.Sendo assim, essa classe pode ser acessada fora do arquivo onde foi definida e pela máquina virtual.
 
 `public static void main(String[] args)`
 
@@ -12,9 +12,11 @@
 ## Variáveis e tipos de dados em Java
 
 Java é uma linguagem altamente **tipada**.
+
 O que significa que cada variável deve ter o seu tipo declarado antes do uso. Sem isso, o código não irá ser compilado.
 
-### Tipos de Java
+### Tipos de dados em Java
+
 #### Inteiro:
 
 Se é desejado escrever valores de outros tipos inteiros, é preciso acrescentar letras ao final do número, para informar a java qual tipo queremos utilizar.
@@ -39,7 +41,7 @@ float| 32 bits| 3.456F
 double| 64 bits| 86.987
 
 #### Lógico
-Os valores do tipo `boolean` utilizam as palavras em inglês **true** e **false** (em letras minúsculas).
+Os valores do tipo **boolean** utilizam as palavras em inglês `true` e `false` (em letras minúsculas).
 
 #### Literal
 
@@ -49,13 +51,13 @@ Os valores do tipo `boolean` utilizam as palavras em inglês **true** e **false*
 
 ## Entrada de dados
 
-Nesse curso, não está sendo tratado orientação a objetos. Logo, a entrada não utiliza o objeto Scanner, a entrada de dados é feita dessa maneira:
+Neste curso,orientação a objetos não está sendo ensinado. Logo, a entrada não utiliza o objeto Scanner, a entrada de dados é feita dessa maneira:
  
 `System.console.readLine()`
 
 A sua função é ler entradas diretamente do console.
 
-Obs: Todas as entradas, são recebidas como String, por isso é necessário o método de conversão de tipos.
+:warning:Obs: Todas as entradas, são recebidas como String, por isso, é necessário o método de conversão de tipos.
 
 Converte de String para|Método
 :---:| :---
@@ -79,7 +81,7 @@ Símbolo| Operação
 :---:| :---:
 +|Adição
 -|Subtração
-*|MUltiplicação
+*|Multiplicação
 /|Divisão
 /|Divisão inteira
 %|Resto da divisão (mod)
@@ -103,7 +105,7 @@ System.printf| Possibilita se fazer uma saída de dados formatada.
 
 ## Formatação de String
 
-Como mencionado anteriormente, o comando System.out.printf permite que façamos uma saída de dados formatada.
+Como mencionado anteriormente, o comando `System.out.printf` permite que façamos uma saída de dados formatada.
 
 Qualquer sequência de caracteres começando com `%` será substituída pelo **valor** de uma variável ou expressão especificado logo após a String.
 
@@ -122,9 +124,18 @@ Formato| Funcionalidade
 "%s"|Permite exibir um valor do tipo **String**.
 
 > No caso da formatação que especifica a quantidade de casas decimais `%.2f`.
->> Se o número tiver menos casas do que é especificadp, será completado com zeros à **direita**.
+>> Se o número tiver menos casas do que é especificado, será completado com zeros à **direita**.
 
 >> Se tiver mais dígitos do que o especificado, será arredondado para o número de dígitos desejado.
+
+#### Exemplo:
+```
+String frase = "ótimo dia"
+System.out.printf("Desejamos um %s para você!", frase)
+```
+**Saída:**
+
+>Desejamos um ótimo dia para você!
 
 ## Comentários em Java
 
