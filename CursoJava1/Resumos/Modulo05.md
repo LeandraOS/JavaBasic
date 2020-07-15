@@ -12,7 +12,7 @@
 - [Formatação de String](#Formatação-de-String)
     - [Exemplo](#Exemplo)
 - [Comentários em Java](#Comentários-em-Java)
-- [Primeiro programa em Java](Primeiro-programa-em-Java)
+- [Primeiro programa](#Primeiro-programa)
 
 # :coffee: Introdução à linguagem Java
 
@@ -161,7 +161,7 @@ Tipos| Funcionalidade
 //| Comentário de uma única linha.
 /* */|Comentário de múltiplas linhas.
 
-## Primeiro programa em Java
+## Primeiro programa
 
 Com o material descrito neste resumo, já somos capazes de escrever um bom código. Vamos lá?!
 
