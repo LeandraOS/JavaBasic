@@ -9,9 +9,9 @@
 - [Entrada de dados](#Entrada-de-dados)
 - [Expressões](#Expressões)
 - [Saída de dados](#Saída-de-dados)
-- [Formatação de String](Formatação-de-String)
-    - [Exemplo](Exemplo)
-- [Comentários em Java](Comentários-em-Java)
+- [Formatação de String](#Formatação-de-String)
+- [Exemplo](#Exemplo)
+- [Comentários em Java](#Comentários-em-Java)
 
 
 # :coffee: Introdução à linguagem Java
