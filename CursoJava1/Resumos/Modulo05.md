@@ -98,7 +98,7 @@ Símbolo| Operação
 :---:| :---:
 **+**|Adição
 **-**|Subtração
-*****|Multiplicação
+__*__|Multiplicação
 **/**|Divisão
 **/**|Divisão inteira
 **%**|Resto da divisão (mod)
