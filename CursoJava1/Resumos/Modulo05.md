@@ -53,7 +53,7 @@ Para designar que um valor seja interpretado como **float**, é necessário acre
 
 Tipo|Tamanho|Exemplo
 :---:|:---:|:---:
-**float**| 32 bits| float num= 3.456F
+**float**| 32 bits| float num = 3.456F
 **double**| 64 bits| double num = 86.987
 
 #### Lógico
