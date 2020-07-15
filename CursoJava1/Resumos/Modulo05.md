@@ -125,9 +125,8 @@ Formato| Funcionalidade
 
 
 > No caso da formatação que especifica a quantidade de casas decimais `%.2f`.
->> Se o número tiver **menos** casas do que é especificado, será **completado** com zeros à **direita**.
-
->> Se tiver **mais** dígitos do que o especificado, será **arredondado** para o número de dígitos desejado.
+> - Se o número tiver **menos** casas do que é especificado, será **completado** com zeros à **direita**. 
+>- Se tiver **mais** dígitos do que o especificado, será **arredondado** para o número de dígitos desejado.
 
 #### Exemplo:
 ```
