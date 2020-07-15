@@ -1,10 +1,10 @@
 ## Índice
 
 - [Estrutura básica de um programa Java](#Estrutura-básica-de-um-programa-Java)
-- [Variáveis e tipos de dados em Java](#Variáveis-e-tipos-de-dados-em-Java)
+- [Tipos de dados em Java](#Variáveis-e-tipos-de-dados-em-Java)
     - [Inteiro](#Inteiro)
     - [Real](#Real)
-    - [Boolean](#Boolean)
+    - [Lógico](#Boolean)
     - [Literal](#Literal)
 - [Entrada de dados](#Entrada-de-dados)
 - [Expressões](#Expressões)
@@ -25,7 +25,7 @@
 
 - Este é o método que a máquina virtual espera encontrar as instruções do programa para **execução**.
 
-## Variáveis e tipos de dados em Java
+## Tipos de dados em Java
 
 Java é uma linguagem altamente **tipada**.
 
@@ -145,7 +145,7 @@ Formato| Funcionalidade
 > - Se o número tiver **menos** casas do que é especificado, será **completado** com zeros à **direita**. 
 >- Se tiver **mais** dígitos do que o especificado, será **arredondado** para o número de dígitos desejado.
 
-#### Exemplo:
+#### Exemplo
 ```
 String frase = "ótimo dia"
 System.out.printf("Desejamos um %s para você!", frase)
