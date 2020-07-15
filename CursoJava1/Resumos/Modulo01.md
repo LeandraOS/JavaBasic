@@ -1,8 +1,8 @@
 
 ## Índice
 - [Conceitos básicos](#computer-conceitos-básicos)
-- [Como o computador funciona?](#como-o-computador-funciona)
-- [Software e Hardware](#software-e-hardware)
+    - [Como o computador funciona?](#como-o-computador-funciona)
+    - [Software e Hardware](#software-e-hardware)
 - [Classificação dos computadores modernos](#classificação-dos-computadores-modernos)
 
 # :coffee: Conteúdos do curso Java I
