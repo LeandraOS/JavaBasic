@@ -42,19 +42,19 @@ Se é desejado escrever valores de outros tipos inteiros, é preciso acrescentar
 
 Tipo|Tamanho|Exemplo
 :---:|:---:| :---:
-byte| 8 bits|int num = 12B
-short|16 bits|int num = 345S
-int|32 bits|int num = 578
-long|64 bits|int num = 1000001L
+**byte**| 8 bits|int num = 12B
+**short**|16 bits|int num = 345S
+**int**|32 bits|int num = 578
+**long**|64 bits|int num = 1000001L
 
 #### Real
 
-Para designar que um valor seja interpretado como `float`, é necessário acrescentar o F ao final do número.
+Para designar que um valor seja interpretado como **float**, é necessário acrescentar o F ao final do número.
 
 Tipo|Tamanho|Exemplo
 :---:|:---:|:---:
-float| 32 bits| float num= 3.456F
-double| 64 bits| double num = 86.987
+**float**| 32 bits| float num= 3.456F
+**double**| 64 bits| double num = 86.987
 
 #### Lógico
 
@@ -62,9 +62,9 @@ Os valores do tipo **boolean** utilizam as palavras em inglês `true` e `false` 
 
 #### Literal
 
-- Valores do tipo `char` devem ser escritos entre aspas simples ('').
+- Valores do tipo **char** devem ser escritos entre aspas simples ('').
 
-- Os valores do tipo `String` devem ser escritos entre aspas duplas ("").
+- Os valores do tipo **String** devem ser escritos entre aspas duplas ("").
 
 ## Entrada de dados
 
@@ -72,7 +72,7 @@ Neste curso,orientação a objetos não está sendo ensinado. Logo, a entrada n�
  
 `System.console.readLine()`
 
-A sua função é ler entradas diretamente do console.
+***A sua função é ler entradas diretamente do console.***
 
 :warning:Obs: Todas as entradas, são recebidas como String, por isso, é necessário o método de conversão de tipos.
 
@@ -88,7 +88,7 @@ Converte de String para|Método
 
 :warning: Note que não existe um método de conversão para o tipo **char**.
  
-Para fazer a leitura desse tipo de dado, pode-se fazer a leitura de um valor String e depois extrair o primeiro caractere dessa String, utilizando o método charAt, como mostrado:
+Para fazer a leitura desse tipo de dado, pode-se fazer a leitura de um valor String e depois extrair o primeiro caractere dessa String, utilizando o método **charAt**, como mostrado:
 
 `System.console.readLine.charAt(0);`
 
@@ -96,12 +96,12 @@ Para fazer a leitura desse tipo de dado, pode-se fazer a leitura de um valor Str
 
 Símbolo| Operação
 :---:| :---:
-+|Adição
--|Subtração
-*|Multiplicação
-/|Divisão
-/|Divisão inteira
-%|Resto da divisão (mod)
+**+**|Adição
+**-**|Subtração
+*****|Multiplicação
+**/**|Divisão
+**/**|Divisão inteira
+**%**|Resto da divisão (mod)
 
 :warning: **Divisão inteira:**
 - Quando houver pelo menos um valor double ou float envolvido em uma divisão, o resultado será do tipo double ou float e uma divisão normal será efetuada.
@@ -113,9 +113,9 @@ Existem três tipos de comandos que realizam a função de produzir saída de da
 
 Comando| Funcionalidade
 :---:|:---
-System.out.println| Posiciona o cursor de saída no início da próxima linha na janela de comando do terminal.
-System.out.print| Posiciona o cursor de saída logo na mesma linha.
-System.printf| Possibilita se fazer uma saída de dados formatada.
+***System.out.println***| Posiciona o cursor de saída no início da próxima linha na janela de comando do terminal.
+***System.out.print***| Posiciona o cursor de saída logo na mesma linha.
+***System.printf***| Possibilita se fazer uma saída de dados formatada.
 
 > :warning: Para que o cursor seja posicionado no início da próxima linha utilizando o **System.out.print** ou o **System.out.printf**, podemos usar o caractere especial de ***nova linha***, representado por `\n`.
 
