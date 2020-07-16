@@ -9,7 +9,8 @@ public class AreaTriangulo {
 
         System.out.println("Digite o valor da altura: ");
         double altura = scan.nextDouble();
+
         double area = (base * altura) / 2;
-        System.out.printf("O valor da área é: %.1f", area);
+        System.out.printf("O valor da área é: %.2f", area);
     }
 }
