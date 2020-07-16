@@ -38,7 +38,7 @@ estudante seria 10 x 1 + 5 x 2+ 3 x 6, que resulta em 10 + 10 + 18 = 38.
 Esse valor deve ser dividido pela soma dos pesos (6), resultando em
 6,3.
 
-8. Faça um programa que calcule e mostre a área de um triângulo. Sabese que: Área = (base x altura) / 2. A base e altura devem ser informadas
+8. Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base x altura) / 2. A base e altura devem ser informadas
 pelo usuário.
 
 9. Faça um programa que calcule e mostre a área de um quadrado. Sabe-se que
