@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Media {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
-
         System.out.println("Você quer calcular a média de qual disciplina? ");
         String disciplina = scan.next();
 

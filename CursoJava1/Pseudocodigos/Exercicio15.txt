@@ -1,7 +1,7 @@
 Algoritmo "Exercício 15"
 
 var
-    Celsius, Fahrenheit: real
+    celsius, fahrenheit: real
 
 início
 
