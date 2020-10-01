@@ -13,10 +13,6 @@ public class BuscaBinariaRec {
 
     }
 
-    public static int buscaBinariaRecursiva(int[] array, int elemento) {
-        return buscaBinariaRecursiva(array, elemento, 0, array.length - 1);
-    }
-
     public static int buscaBinariaRecursiva(int[] array, int element, int left, int right) {
 
         if (right >= left && array.length != 0) {
