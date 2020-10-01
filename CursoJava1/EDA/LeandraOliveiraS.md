@@ -1,6 +1,5 @@
 <h2 align= "center">Hello World!</h2>
-<p >
-align= "center">
+<p align= "center">
 
 <img width= "240" align= "center" border-radius= "50%" src= "https://avatars3.githubusercontent.com/u/50140771?s=460&u=0b5f97f0ce993d3445b888cf3c73f8dfeee5982d&v=4"/>
 <p align = "center"
