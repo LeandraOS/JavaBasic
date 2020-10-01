@@ -1,6 +1,6 @@
 ## Hello World!
 
-<img width= "150" border-radius= "50%" src= "https://avatars3.githubusercontent.com/u/50140771?s=460&u=0b5f97f0ce993d3445b888cf3c73f8dfeee5982d&v=4"/>
+<img width= "240" border-radius= "50%" src= "https://avatars3.githubusercontent.com/u/50140771?s=460&u=0b5f97f0ce993d3445b888cf3c73f8dfeee5982d&v=4"/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
@@ -12,7 +12,7 @@ My name is **Leandra Oliveira**, I'm 20 years old and I'm a student of **Compute
 I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline. I am completely passionate about frontend development, graphs and also very interested in data analysis. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 
-<img align= "right" width= "120" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
 - 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
