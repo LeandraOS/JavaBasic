@@ -1,12 +1,16 @@
-<p align= "center">
-<h2> Hello World!</h2>
+##                                                                          Hello World!
+<p 
+align= "center">
 
-<img width= "240" border-radius= "50%" src= "https://avatars3.githubusercontent.com/u/50140771?s=460&u=0b5f97f0ce993d3445b888cf3c73f8dfeee5982d&v=4"/>
+<img width= "240" align= "center" border-radius= "50%" src= "https://avatars3.githubusercontent.com/u/50140771?s=460&u=0b5f97f0ce993d3445b888cf3c73f8dfeee5982d&v=4"/>
+<p align = "center"
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
+
+</p>
 </p>
 
 My name is **Leandra Oliveira**, I'm 20 years old and I'm a student of **Computer Science** at Federal University of Campina Grande (**UFCG**) in Brazil.
