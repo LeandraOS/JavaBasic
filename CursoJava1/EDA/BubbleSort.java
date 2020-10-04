@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class BubbleSort{
     public static int[] bubbleSort(int [] array){
@@ -17,8 +16,7 @@ public class BubbleSort{
 
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int [] entrada = {9,8,7,6,5,4,3,2,1,0};
-        System.out.println(Arrays.toString(bubbleSort(entrada)));
+        int [] array = {9,8,7,6,5,4,3,2,1,0}
+        System.out.println(Arrays.toString(bubbleSort(array)));
     }
 }
