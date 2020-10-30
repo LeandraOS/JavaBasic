@@ -57,7 +57,8 @@ escreva divisao
 
 Algoritmo "Divisão"
 
-num1, num2, divisao: real
+var
+	num1, num2, divisao: inteiro
 
 leia num1, num2
 divisao = num1 / num2
