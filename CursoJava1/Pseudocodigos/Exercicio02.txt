@@ -1,4 +1,4 @@
-Algoritmo "Exercício 2"
+Algoritmo "Divisão"
 
 var
 	num1, num2, divisao: real
@@ -12,7 +12,7 @@ fim
 // Esse algoritmo realiza a divisão do primeiro número pelo segundo número.
 
 
-Algoritmo "Exercício 2"
+Algoritmo "Divisão"
 
 var
 	num1, num2, divisao: boolean
@@ -24,7 +24,7 @@ início
 fim
 
 
-Algoritmo "Exercício 2"
+Algoritmo "Divisão"
 
 num1, num2, divisao: real
 
@@ -34,7 +34,7 @@ início
 	escreva divisao
 fim
 
-Algoritmo "Exercício 2"
+Algoritmo "Divisão"
 
 var
 	num1, num2, divisao: string
@@ -44,7 +44,7 @@ var
 	escreva divisao
 fim
 
-Algoritmo "Exercício 2"
+Algoritmo "Divisão"
 
 
 	num1, num2, divisao: real
@@ -55,12 +55,14 @@ Algoritmo "Exercício 2"
 
 
 
-Algoritmo "Exercício 2"
+Algoritmo "Divisão"
 
 	num1, num2, divisao: real
 
 	leia num1, num2
 	divisao = num1 / num2
 	escreva divisao
+
+
 
 
