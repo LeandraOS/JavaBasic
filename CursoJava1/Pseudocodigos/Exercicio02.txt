@@ -39,19 +39,18 @@ Algoritmo "Divisão"
 var
 	num1, num2, divisao: string
 
-	leia num1, num2
-	divisao <- num1 / num2
-	escreva divisao
+leia num1, num2
+divisao <- num1 / num2
+escreva divisao
 fim
 
 Algoritmo "Divisão"
 
+num1, num2, divisao: real
 
-	num1, num2, divisao: real
-
-	leia num1, num2
-	divisao <- num1 / num2
-	escreva divisao
+leia num1, num2
+divisao <- num1 / num2
+escreva divisao
 
 
 
@@ -62,7 +61,3 @@ Algoritmo "Divisão"
 	leia num1, num2
 	divisao = num1 / num2
 	escreva divisao
-
-
-
-
