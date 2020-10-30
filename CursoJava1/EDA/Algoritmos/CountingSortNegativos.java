@@ -1,3 +1,4 @@
+package Algoritmos;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -43,7 +44,7 @@ public class CountingSortNegativos {
 		}
 	
 	public static int[] converteArray(String array) {
-		String[] listaAbs = vetor.split(" ");
+		String[] listaAbs = array.split(" ");
 		int[] listaOfc = new int[listaAbs.length];
 		for (int k = 0; k < listaAbs.length; k ++) {
 			listaOfc[k] = Integer.parseInt(listaAbs[k]);

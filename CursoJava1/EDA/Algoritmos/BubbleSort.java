@@ -1,3 +1,5 @@
+package Algoritmos;
+
 import java.util.Arrays;
 
 public class BubbleSort{
@@ -16,7 +18,7 @@ public class BubbleSort{
 
 
     public static void main(String[] args) {
-        int [] array = {9,8,7,6,5,4,3,2,1,0}
+        int [] array = {9,8,7,6,5,4,3,2,1,0};
         System.out.println(Arrays.toString(bubbleSort(array)));
     }
 }
