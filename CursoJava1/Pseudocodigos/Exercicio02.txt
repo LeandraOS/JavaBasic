@@ -63,3 +63,64 @@ var
 leia num1, num2
 divisao = num1 / num2
 escreva divisao
+
+
+
+Algoritmo "Hello world"
+
+var 
+	nome: string
+
+início
+	leia nome
+	escreva "Hello world" + nome 
+
+fim
+
+
+Algoritmo "Hello world"
+
+var 
+	nome
+
+início
+	leia nome
+	escreva "Hello world" + nome 
+
+fim
+
+
+var 
+	nome: string
+
+
+início
+	leia nome
+	escreva "Hello world" + nome 
+
+
+
+Algoritmo "Hello world"
+
+
+var 
+	nome: double
+
+início
+	leia nome
+	escreva "Hello world" + nome 
+
+fim
+
+
+Algoritmo "Hello world"
+
+var 
+	nome: string
+
+início
+	leia nome
+	escreva "Hello world"
+
+
+
