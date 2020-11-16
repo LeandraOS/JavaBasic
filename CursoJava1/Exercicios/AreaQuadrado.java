@@ -4,11 +4,17 @@ public class AreaQuadrado {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Digite o valor do lado do quadrado: ");
+        System.out.println("Valor do lado do quadrado: ");
         double lado = scan.nextDouble();
 
         double area = lado * lado;
-        System.out.printf("A área do quadrado é: %.2f", area);
-
+        System.out.printf("Área do quadrado: %.2f", area);
     }
 }
+
+
+
+
+
+
+
